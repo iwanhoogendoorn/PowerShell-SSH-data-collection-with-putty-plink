@@ -15,4 +15,4 @@ Obviously, there are more interfaces in “the network” on multiple network de
 
 # The wiki post 
 More on how the script operates can be found on the nsx ninja wiki here:
-https://nsx.ninja/index.php/Using_putty/plink_with_PowerShell_to_SSH_into_an_NSX_Edge_and_collect_information
+[https://nsx.ninja/index.php/Using_putty/plink_with_PowerShell_to_SSH_into_an_NSX_Edge_and_collect_information](https://iwanhoogendoorn.nl/kb/using-puttyplink-with-powershell-to-ssh-into-an-nsx-edge-and-collect-information/)
