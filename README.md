@@ -14,5 +14,5 @@ The goal is to receive back the traffic (on eth-in) that is sent out by the Traf
 Obviously, there are more interfaces in “the network” on multiple network devices (switches, routers, ESXi hosts, and VMs) but this is out of scope as we are only focussing on the Bare Metal Edges in this article.e
 
 # The wiki post 
-More on how the script operates can be found on the nsx ninja wiki here:
+More on how the script operates can be found on my website here:
 https://iwanhoogendoorn.nl/kb/using-puttyplink-with-powershell-to-ssh-into-an-nsx-edge-and-collect-information/
